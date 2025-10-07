@@ -1,0 +1,19 @@
+{
+  "name": "IPL 2025 Theme",
+  "dataColors": [
+    "#004BA0",
+    "#FDB913",
+    "#DA291C",
+    "#7826C1",
+    "#00A859",
+    "#EA1D25",
+    "#134E4A",
+    "#002147",
+    "#FF671F",
+    "#FFC107"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#000000",
+  "tableAccent": "#004BA0",
+  "visualStyles": {}
+}
